@@ -1,0 +1,6 @@
+# Training defaults; tune only after dataset inspection
+optimizer: auto
+lr0: 0.01
+cos_lr: true
+patience: 20
+augment: true
